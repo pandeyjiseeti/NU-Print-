@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "263660584739",
+    "firebase_url": "https://lalchandpp-dc7be.firebaseio.com",
+    "project_id": "lalchandpp-dc7be",
+    "storage_bucket": "lalchandpp-dc7be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263660584739:android:590d9386bdac66b714d696",
+        "android_client_info": {
+          "package_name": "com.example.User"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263660584739-l4d006s115pn2p6esinvrj9nbpphopud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQh0EXKQ8tNHjxT4PHHw6L7FSEBPK7It0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263660584739-l4d006s115pn2p6esinvrj9nbpphopud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,61 @@
+name: lalchandosfinal
+description: A new Flutter application.
+
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  fluttertoast: ^4.0.1
+  flutter_launcher_icons: ^0.7.5
+  flutter_switch: ^0.1.0
+  firebase_auth: ^0.16.1
+  cloud_firestore: ^0.13.6
+  flutter_share_me: ^0.9.1
+  font_awesome_flutter: ^8.8.1
+  charts_flutter: ^0.9.0
+  google_fonts: ^1.1.0
+  flutter:
+    sdk: flutter
+
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^0.1.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: "true"
+  image_path: "assets/logo.jpg"
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+
+
+  uses-material-design: true
+  assets:
+    - assets/facebook.jpg
+    - assets/google.jpg
+    - assets/Heart.png
+    - assets/Battery.png
+    - assets/waiting.png
+    - assets/complete.jpg
+    - assets/1.png
+    - assets/2.png
+    - assets/3.png
+    - assets/4.png
+    - assets/lc.jpg
+    - assets/impc.PNG
+    - assets/logo.jpg

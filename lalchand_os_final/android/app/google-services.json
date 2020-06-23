@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "958159689149",
+    "firebase_url": "https://nu-printingapp.firebaseio.com",
+    "project_id": "nu-printingapp",
+    "storage_bucket": "nu-printingapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958159689149:android:1d8cf52450952f4b796ed4",
+        "android_client_info": {
+          "package_name": "com.example.lalchandosfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958159689149-151e4thsc42np50sgvk6pc0j6jg6apvo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lalchandosfinal",
+            "certificate_hash": "96c275469a4ed5a1b577ffffe01838e22f1bb966"
+          }
+        },
+        {
+          "client_id": "958159689149-2tdpqpj6uf337jmvsjh2800qhieajktp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3J9NULA4viGyRhSYvdfFKKuLNrPFXmjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958159689149-2tdpqpj6uf337jmvsjh2800qhieajktp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
